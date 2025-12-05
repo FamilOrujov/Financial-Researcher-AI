@@ -1,0 +1,112 @@
+financial_research:
+  description: |
+    Conduct initial financial research on {company} using web search.
+    Search for basic company information and recent news (2025 and the latest information about {company})
+  expected_output: |
+    A brief research summary containing:
+    - Company overview
+    - Recent news highlights
+
+prepare_research_strategy:
+  description: |
+    Based on the initial research, outline key areas to analyze for {company}.
+  expected_output: |
+    A brief strategy outline containing:
+    - Key metrics to analyze
+    - Areas of focus
+
+company_analysis:
+  description: |
+    Analyze {company} business model and segments based on provided research.
+  expected_output: |
+    A brief company analysis containing:
+    - Business segments
+    - Revenue streams
+
+financial_data_analysis:
+  description: |
+    Analyze key financial metrics for {company} based on provided research.
+  expected_output: |
+    A brief financial analysis containing:
+    - Key financial ratios
+    - Performance indicators
+
+risk_assessment:
+  description: |
+    Identify key risks for {company} based on provided analysis.
+  expected_output: |
+    A brief risk assessment containing:
+    - Key risks identified
+    - Risk factors
+
+market_analysis:
+  description: |
+    Analyze market position for {company} based on provided research.
+  expected_output: |
+    A brief market analysis containing:
+    - Market position
+    - Competitive landscape
+
+draft_report:
+  description: |
+    Compile all findings into a draft report for {company}.
+  expected_output: |
+    A draft report containing:
+    - Summary of findings
+    - Key insights
+
+finalize_report:
+  description: |
+    Create a comprehensive, detailed financial research report for {company}.
+    This is the final deliverable - make it thorough and professional.
+    Include all research findings, analysis, and actionable recommendations.
+    Ensure the report is well-structured with clear sections and professional formatting.
+  expected_output: |
+    A comprehensive, publication-ready financial research report containing:
+    
+    1. EXECUTIVE SUMMARY
+       - Key findings overview
+       - Investment thesis
+       - Target price and recommendation
+    
+    2. COMPANY OVERVIEW
+       - Business description and history
+       - Products and services breakdown
+       - Revenue segments analysis
+       - Geographic presence
+       - Management team assessment
+    
+    3. FINANCIAL ANALYSIS
+       - Revenue and earnings trends
+       - Profitability metrics (gross margin, operating margin, net margin)
+       - Balance sheet strength (debt levels, liquidity ratios)
+       - Cash flow analysis
+       - Key financial ratios comparison
+       - Historical performance trends
+    
+    4. MARKET AND COMPETITIVE ANALYSIS
+       - Industry overview and trends
+       - Market size and growth potential
+       - Competitive positioning
+       - Key competitors comparison
+       - Market share analysis
+       - Competitive advantages and moats
+    
+    5. RISK ASSESSMENT
+       - Financial risks
+       - Operational risks
+       - Market and competitive risks
+       - Regulatory risks
+       - Macroeconomic risks
+    
+    6. INVESTMENT RECOMMENDATION
+       - Buy/Hold/Sell recommendation with rationale
+       - Key catalysts and drivers
+       - Price target methodology
+       - Investment timeline considerations
+    
+    7. CONCLUSION
+       - Summary of key points
+       - Final recommendation
+       - Monitoring factors going forward
+
