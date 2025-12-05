@@ -282,63 +282,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://crewai.com">
-        <img src="https://img.shields.io/badge/CrewAI-6366f1?style=for-the-badge" alt="CrewAI"/><br/>
-        <sub><b>Multi-Agent Framework</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://streamlit.io">
-        <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/><br/>
-        <sub><b>Web Application</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://ollama.ai">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/><br/>
-        <sub><b>Local LLM Runtime</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/BerriAI/litellm">
-        <img src="https://img.shields.io/badge/LiteLLM-22d3ee?style=for-the-badge" alt="LiteLLM"/><br/>
-        <sub><b>LLM Abstraction</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
-<div align="center">
-
-### 💼 Author
-
-<a href="https://github.com/FamilOrujov">
-  <img src="https://img.shields.io/badge/GitHub-FamilOrujov-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="mailto:familoruj@gmail.com">
-  <img src="https://img.shields.io/badge/Email-familoruj%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Made%20with-Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Made with Python"/>
-<img src="https://img.shields.io/badge/Powered%20by-AI-6366f1?style=flat-square" alt="Powered by AI"/>
-<img src="https://img.shields.io/badge/Built%20with-❤️-ff4b4b?style=flat-square" alt="Built with Love"/>
-
-<br/><br/>
-
-⭐ **Star this repo if you find it useful!** ⭐
-
-</div>
+> ⚠️ **Disclaimer:** This AI system is designed for informational purposes only and does not constitute professional financial advice. The generated analyses and recommendations may contain inaccuracies or errors. Always consult a qualified financial advisor before making investment decisions.
 
