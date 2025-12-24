@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Financial Researcher AI
+# 📊 Financial Researcher AI.
 
 **AI-Powered Financial Analysis & Research Reports**
 
