@@ -19,7 +19,7 @@
 
 </div>
 
-## Features
+## Features.
 
 - **Multi-Agent System** — Four specialized AI agents collaborating on research tasks
 - **Comprehensive Analysis** — Company overview, financial metrics, risk assessment, market position
